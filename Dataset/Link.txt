@@ -1,0 +1,2 @@
+https://universe.roboflow.com/fire-detection/fire-detection-data-pre
+https://public.roboflow.com/object-detection/wildfire-smoke
